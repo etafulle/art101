@@ -1,6 +1,6 @@
-// index.js - purpose and description here
-// Author: Your Name
-// Date:
+// index.js - Rock-Paper-Sccissors
+// Author: Ethan Fuller
+// Date: 4/24/2023
 
 // Constants
 
@@ -19,3 +19,17 @@ function main() {
 
 // let's get this party started
 main();
+
+// Creating a Rock-Paper-Sccissors game(Outline):
+
+
+// 1. Ask user to pick rock, paper, or sccissors
+
+
+// 2. Make the computer choose one of the options
+
+
+// 3. Evaluate possible moves
+
+
+//4. Test of win or draw condition
